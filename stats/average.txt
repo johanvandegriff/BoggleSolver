@@ -1,0 +1,4 @@
+Average from 1000 different 5x5 boggle boards:
+
+Word Count:  177.205
+Total Score: 367.165
